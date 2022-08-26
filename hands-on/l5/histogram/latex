@@ -1,0 +1,8 @@
+!! \bar{x} =  \frac{\sum_{i=1}^{n} f_{i}x_{i}}{\sum_{i=1}^{n}f_{i}} = \frac{\sum_{i=1}^{n} f_{i}x_{i}}{N}!!
+
+Median = \frac{\frac{N}{2}^{th}+ (\frac{N}{2}+1)^{th} terms}{2}
+
+\bar{x} = a +l \times \frac{\sum_{i=1}^{n} f_{i}d_{i}}{\sum_{i=1}^{n}f_{i}}
+
+\bar{x} = a + l \times \frac{\sum_{i=1}^{n} f_{i}d_{i}^{'}}{\sum_{i=1}^{n}f_{i}}
+

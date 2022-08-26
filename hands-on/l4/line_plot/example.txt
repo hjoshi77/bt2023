@@ -1,0 +1,6 @@
+wget https://www.dropbox.com/sh/z0j9o9aevdi4j4p/AABYhx5M4iitAO6HXWIdbotma?dl=0
+grep India WHO-COVID-19-global-data.csv >ind.txt
+sed -i -e 's/,/  /g' ind.txt
+sed -i -e "s/United States of America/USA/g" usa.txt
+awk '{print NR, $5}' ind1 >new_cases.txt
+

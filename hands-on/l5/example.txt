@@ -1,0 +1,4 @@
+pr -mts' ' col1.dat col2.dat >combine.dat
+sed -e 's/\(.*\)/\L\1/' old.txt >new.txt
+grep -A1 'blah' logfile
+
