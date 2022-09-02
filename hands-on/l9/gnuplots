@@ -1,0 +1,3 @@
+splot 
+set p3md
+set palette rgbformula 10,20
