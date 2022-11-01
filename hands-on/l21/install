@@ -1,0 +1,10 @@
+https://cran.r-project.org/bin/linux/ubuntu/
+
+https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-22-04
+
+https://itsfoss.com/install-r-ubuntu/
+
+https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/
+
+sudo apt-get install -f
+sudo dpkg -i rstudio-2022.07.2-576-amd64.deb

@@ -1,0 +1,6 @@
+R 
+Exit 
+q() 
+install.packages('txtplot')
+library('txtplot') 
+curve(dchisq(x, df=1), from = 0, to =1)
